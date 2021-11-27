@@ -1,0 +1,5 @@
+com/techjs/springsecurity/config/MySecurityInitializer.class
+com/techjs/springsecurity/config/MySecurityConfig.class
+com/techjs/springsecurity/controller/MyController.class
+com/techjs/springsecurity/config/MyConfig.class
+com/techjs/springsecurity/config/MyWebIntializer.class
